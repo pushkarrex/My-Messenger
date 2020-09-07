@@ -1,0 +1,23 @@
+.message{
+   width:max-content;
+    margin: 3rem ;
+    padding:5px;
+    background:#e8ebe9;
+    border-radius: 12px;
+    border: 1px solid transparent;
+
+}
+
+
+.message__user{
+    width:max-content;
+    margin: 3rem 0;
+     margin-left: auto ;
+     margin-right:3rem;
+     padding:5px;
+     color:white;
+     background:#6dbbe8;
+     border-radius: 12px;
+     border: 1px solid transparent;
+ 
+ }
